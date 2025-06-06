@@ -1,0 +1,11 @@
+## Information Theory  
+### *(For Attention Mechanisms, Entropy, Transformer Losses)*
+
+**Topics :**
+
+- Entropy  
+- Mutual Information  
+- Kullback-Leibler (KL) Divergence  
+- Cross-Entropy  
+- Perplexity (used in evaluating language models)  
+- Bit Representation of Information  
