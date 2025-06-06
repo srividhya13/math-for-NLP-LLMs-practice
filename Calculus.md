@@ -4,7 +4,7 @@
 
 ---
 
-##  Topics Covered
+##  Topics 
 
 - [ ] **Limits, Derivatives, Chain Rule**
 - [ ] **Partial Derivatives**
