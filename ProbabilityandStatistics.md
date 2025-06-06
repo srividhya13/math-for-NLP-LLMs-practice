@@ -1,0 +1,22 @@
+# Probability and Statistics
+
+> **Core Applications:** NLP, Bayesian Networks, Sampling, Transformers, Generative Models
+
+---
+
+##  Topics 
+
+- [ ] **Sample Space, Events, Conditional Probability**
+- [ ] **Bayes’ Theorem**
+- [ ] **Random Variables** (Discrete & Continuous)
+- [ ] **PMF, PDF, CDF**
+- [ ] **Expectation, Variance, Standard Deviation**
+- [ ] **Joint, Marginal, and Conditional Distributions**
+- [ ] **Independence**
+- [ ] **Law of Large Numbers, Central Limit Theorem**
+- [ ] **Common Distributions:** Binomial, Bernoulli, Gaussian, Poisson, Exponential
+- [ ] **KL Divergence, Cross Entropy, Entropy**
+- [ ] **Markov Chains, Hidden Markov Models**
+- [ ] **Maximum Likelihood Estimation (MLE)**
+- [ ] **MAP (Maximum A Posteriori)**
+- [ ] **Naive Bayes Classifier**
