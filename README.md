@@ -1,10 +1,10 @@
-# 📘 Math for NLP & LLMs — Practice Repository
+# Math for NLP & LLMs — Practice Repository
 
 This repository is a collection of **mathematical foundations essential for NLP and Large Language Models (LLMs)**.  
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each topic is organized into Markdown files for clarity:
 
